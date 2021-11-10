@@ -11,25 +11,25 @@ _pendaftaran akun baru verifikasi email_
 
 2. klik **'masuk/daftar'** pada header
 
-   <!-- ![Docusaurus logo](https://gitlab.com/halalpedia/halalpedia-features-flow/-/raw/674f1b936b17f2b5e5ce23b552004fbc29e64c8b/source/images/mainpage-fix.jpeg) -->
+   ![Docusaurus logo](./images/mainpage-fix.jpeg)
 
 3. Pop up akan muncul, klik **'Belum mempunyai akun'**
 
-   <!-- ![Docusaurus logo]() -->
+   ![Docusaurus logo](./images/popupdaftar-fix.jpeg)
 
 4. Isi field pada form buat akun, lalu checklist 'Saya setuju dengan Syarat dan Ketentuan'
 
-   <!-- ![Docusaurus logo]() -->
+   ![Docusaurus logo](./images/buatakun-fix.jpeg)
 
 5. Klik **'Mendaftar'**
 
 6. Cek inbox email yang di daftarkan, lalu klik link verifikasi atau klik **'click here'**
 
-   <!-- ![Docusaurus logo]() -->
+   ![Docusaurus logo](./images/verifikasiemail-fix.jpeg)
 
 7. Jika berhasil akan direct ke halaman membuat **PIN**
 
-   <!-- ![Docusaurus logo]() -->
+   ![Docusaurus logo](./images/pin-fix.jpeg)
 
 8. isikan **PIN** tersebut (harus berupa angka)
 

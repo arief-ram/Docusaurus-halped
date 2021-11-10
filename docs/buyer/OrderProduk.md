@@ -8,7 +8,7 @@ _flow pembeli saat pemesanan barang_
 
 2. tentukan jumlah barang dengan klik tanda **'+'** atau **'-'**
 
-<!-- ![alt text](source/images/produkhalped-fix.jpeg) -->
+![Docusaurus logo](./images/produkhalped-fix.jpeg)
 
 3. klik **'Beli'** untuk langsung ke tahap pemilihan kurir pengiriman
 
@@ -16,27 +16,27 @@ _flow pembeli saat pemesanan barang_
 
 5. isi form alamat pengiriman
 
-   <!-- ![alt text](source/images/tambahalamat-fix.jpeg) -->
+   ![Docusaurus logo](./images/tambahalamat-fix.jpeg)
 
    - atau dapat langsung isikan lokasi di maps
 
-   <!-- ![alt text](source/images/alamatmaps-fix.jpeg) -->
+   ![Docusaurus logo](./images/alamatmaps-fix.jpeg)
 
 6. pilih kurir pengiriman
 
-<!-- ![alt text](source/images/pilihkurir-fix.jpeg) -->
+![Docusaurus logo](./images/pilihkurir-fix.jpeg)
 
 7. klik **'Lanjutkan'**
 
 8. pilih salah satu metode pembayaran
 
-<!-- ![alt text](source/images/metodepembayaran-fix.jpeg) -->
+![Docusaurus logo](./images/metodepembayaran-fix.jpeg)
 
 9. klik **'Konfirmasi Pembayaran'**
 
 10. akan muncul cara pembayaran yang dipilih
 
-    <!-- ![alt text](source/images/carapembayaran-fix.jpeg) -->
+    ![Docusaurus logo](./images/carapembayaran-fix.jpeg)
 
 ---
 
@@ -50,7 +50,7 @@ _flow pembeli saat pemesanan barang_
 
 2. tentukan jumlah barang dengan klik tanda **'+'** atau **'-'**
 
-<!-- ![alt text](source/images/produkhalped-fix.jpeg) -->
+![Docusaurus logo](./images/produkhalped-fix.jpeg)
 
 3. klik **'Beli'** untuk langsung ke tahap pemilihan kurir pengiriman
 
@@ -60,7 +60,7 @@ _flow pembeli saat pemesanan barang_
 
 6. klik **'Masuk/daftar'**
 
-<!-- ![alt text](source/images/mainpage-fix.jpeg) -->
+![Docusaurus logo](./images/mainpage-fix.jpeg)
 
 7. isi data username dan password
 
@@ -68,16 +68,16 @@ _flow pembeli saat pemesanan barang_
 
 9. pilih kurir pengiriman
 
-<!-- ![alt text](source/images/pilihkurir-fix.jpeg) -->
+![Docusaurus logo](./images/pilihkurir-fix.jpeg)
 
 10. klik **'Lanjutkan'**
 
 11. pilih salah satu metode pembayaran
 
-    <!-- ![alt text](source/images/metodepembayaran-fix.jpeg) -->
+    ![Docusaurus logo](./images/metodepembayaran-fix.jpeg)
 
 12. klik **'Konfirmasi Pembayaran'**
 
 13. muncul cara pembayaran yang dipilih
 
-    <!-- ![alt text](source/images/carapembayaran-fix.jpeg) -->
+    ![Docusaurus logo](./images/carapembayaran-fix.jpeg)

@@ -14,5 +14,6 @@ _fitur login ke aplikasi halalpedia (web / mobile)_
 ![Docusaurus logo](https://halalpedia.oss-ap-southeast-5.aliyuncs.com/2021/09/20210909171803-6139df5b2b83e-tokokiperbandungkuning.jpg?x-oss-process=image/auto-orient,1/resize,m_pad,w_150,h_150/quality,q_80)
 
 3. Masukan data email/no handphone dan password
-<!-- ![Docusaurus logo](/img/formlogin.jpeg) -->
+   <!-- ![Docusaurus logo](/images/formlogin-fix.jpeg) -->
+   ![Docusaurus logo](./images/formlogin-fix.jpeg)
 4. Tekan button **'Masuk'**

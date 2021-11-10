@@ -4,7 +4,7 @@ _fitur ini dipakai user untuk logout akun_
 
 1. klik **'(Nama Akun)'** di header
 
-<!-- ![alt text](source/images/logout-fix.jpeg) -->
+![Docusaurus logo](./images/logout-fix.jpeg)
 
 2. klik **'Keluar'**
 
